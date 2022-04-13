@@ -1,0 +1,3 @@
+<Files ~ ".(php|js|json)$">
+deny from all
+</Files>
